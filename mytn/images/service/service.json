@@ -72,7 +72,8 @@
          "authDomains":[],
          "serviceLink":"https://apps.tn.gov/carat/referral/emergency.html",
          "categories":[
-            "family"
+            "family",
+            "publicSafety"
          ]
       },
       {
@@ -227,7 +228,7 @@
             "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Middle_TN_State_Veterans_Cemetery_Resized.jpg"
          },
          "authDomains":[],
-         "serviceLink":"https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/veteran-burial-benefits/state-cemeteries.html",
+         "serviceLink":"https://www.mytn.gov/guest/lifestyles/tennessee-state-veterans-cemetery-pre-registration-forms.html",
          "categories":[
             "lifestyles"
          ]
@@ -342,7 +343,7 @@
             "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/samplelicenseplate_mytnapp.png"
          },
          "authDomains":[],
-         "serviceLink":"https://www.tn.gov/revenue/title-and-registration/license-plates.html",
+         "serviceLink":"https://personalizedplates.revenue.tn.gov",
          "categories":[
             "publicSafety",
             "driving"
