@@ -196,7 +196,7 @@
       },
       "serviceInfo":{
          "title":"PickTN",
-         "description":"This will be the text on the info page to allow search optimazation",
+         "description":"Pick Tennessee Products is part of the Tennessee Department of Agriculture, dedicated to connecting people everywhere to all of the great things that come from Tennessee farms and food businesses.  These directories connect you with approximately 2600 Tennessee farm-direct and food businesses.  Follow us on Facebook, Twitter, Instagram, and YouTube to find fresh, local, fun from the farm.",
          "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/AgricultureDept.jpg"
       },
       "authDomains":[],
@@ -229,15 +229,15 @@
    {
       "environment": "dev",
       "id":"veteransServices",
-      "sortBy":"veterans services",
+      "sortBy":"veterans services cemeteries",
       "serviceList":{
-         "title":"Veterans Services",
+         "title":"Veterans Services Cemeteries",
          "description":"This will be the text on the info page to allow search optimazation",
          "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Middle_TN_State_Veterans_Cemetery_Resized.jpg"
       },
       "serviceInfo":{
-         "title":"Veterans Services",
-         "description":"This will be the text on the info page to allow search optimazation",
+         "title":"Veterans Services Cemeteries",
+         "description":"Tennessee Department of Veterans Services connects Veterans of all eras to the benefits they have earned, and maintains the state cemeteries that serve them.  If you have questions please call 615-741-2345 for assistance and if you want to preregister for burial service click preregistration and select your region.",
          "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Middle_TN_State_Veterans_Cemetery_Resized.jpg"
       },
       "authDomains":[],
@@ -277,7 +277,7 @@
       },
       "serviceInfo":{
          "title":"Mastered in Tennessee",
-         "description":"This will be the text on the info page to allow search optimazation",
+         "description":"The Tennessee Department of Economic & Community Development helps attract investments and expansions to make TN #1 in the Southeast for high quality jobs.",
          "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Mastered-In-TN.jpg"
       },
       "authDomains":[],
@@ -297,7 +297,7 @@
       },
       "serviceInfo":{
          "title":"Restaurant Inspection Scores",
-         "description":"This will be the text on the info page to allow search optimazation",
+         "description":"The mission of the Tennessee Department of Health (TDH) is to protect, promote, and improve the health and prosperity of people in Tennessee.  The Environmental Health Program permits and inspects restaurants and other food establishments in the state.  Learn more about TDH services and programs at www.tn.gov/health",
          "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores.jpg"
       },
       "authDomains":[],
