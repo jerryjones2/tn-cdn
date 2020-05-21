@@ -239,7 +239,7 @@
       "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-info1.png"
    },
    "authDomains":[],
-   "serviceLink":"/https://www.gooutdoorstennessee.com",
+   "serviceLink":"https://www.gooutdoorstennessee.com",
    "categories":[
       "lifestyles"
    ]
