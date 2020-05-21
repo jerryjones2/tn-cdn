@@ -25,7 +25,7 @@
          "id":"publicSafety",
          "title":"Public Safety",
          "description":"Safety alert services for your area.",
-         "tileImage":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/category/mainpgct-police.png"
+         "tileImage":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/category/publicSafety.jpg"
       },
       {
       	 "environment":"dev",
