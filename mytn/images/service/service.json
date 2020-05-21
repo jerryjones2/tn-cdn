@@ -231,12 +231,12 @@
    "serviceList":{
       "title":"TN Wildlife Resources Agency",
       "description":"TWRA site provides license and permits, harvest, game check activity and more",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-list.png"
+      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-list1.png"
    },
    "serviceInfo":{
       "title":"Tennessee Wildlife Resources Agency",
       "description":"<p>Some of the features available through the TWRA site are as follows:</p><ul><li>Purchase your license and permits</li><li>Submit harvest reports and game check activity</li><li>Register or renew your vessel online</li><li>Check application status</li><li>Obtain replacement registration cards and decals</li><li>View and apply for open quota hunt events</li><li>Update your application and hunt choices online</li><li>View and manage your customer account</li><li>And more<br /></li></ul>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-info.png"
+      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-info1.png"
    },
    "authDomains":[],
    "serviceLink":"/https://www.gooutdoorstennessee.com",
@@ -271,12 +271,12 @@
    "serviceList":{
       "title":"Restaurant Inspection Scores",
       "description":"To protect, promote and improve the health and prosperity of people in Tennessee",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores.jpg"
+      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
    },
    "serviceInfo":{
       "title":"Restaurant Inspection Scores",
       "description":"<p>The mission of the Tennessee Department of Health (TDH) is to protect, promote and improve the health and prosperity of people in Tennessee. The Environmental Health Program permits and inspects restaurants and other food establishments in the state. Learn more about TDH services and programs at www.tn.gov/health.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores.jpg"
+      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
    },
    "authDomains":[],
    "serviceLink":"http://inspections.myhealthdepartment.com/tennessee",
