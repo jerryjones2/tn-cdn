@@ -139,7 +139,8 @@
    ],
    "serviceLink":"http://mytn-testapp-1-tn-mytn-testapp-1.apps.non-production.a7p1.p1.openshiftapps.com/secured",
    "categories":[
-      "family"
+      "family",
+      "qatest"
    ]
 },
 {
@@ -161,7 +162,28 @@
    ],
    "serviceLink":"http://mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com/secured",
    "categories":[
-      "family"
+      "family",
+      "qatest"
+   ]
+},
+{
+   "environment": "dev",
+   "id":"testclosewindow",
+   "sortBy":"test app 3",
+   "serviceList":{
+      "title":"Testing Close Window",
+      "description":"This will be the text on the info page to allow search optimazation",
+      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
+   },
+   "serviceInfo":{
+      "title":"Testing Close Window",
+      "description":"This will be the text on the info page to allow search optimazation",
+      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
+   },
+   "authDomains":[],
+   "serviceLink":"http://mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com/secured",
+   "categories":[
+      "qatest"
    ]
 },
 {

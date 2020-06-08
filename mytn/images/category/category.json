@@ -33,5 +33,12 @@
          "title":"Volunteer",
          "description":"Volunteer opportunities",
          "tileImage":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/category/volunteer.jpg"
-      }
+      },
+      {
+         "environment":"dev",
+        "id":"qatest",
+        "title":"QA Testing",
+        "description":"Testing area for developers and QA",
+        "tileImage":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
+     }
 ]      
