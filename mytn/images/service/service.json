@@ -169,13 +169,13 @@
    "id":"picktn",
    "sortBy":"picktn",
    "serviceList":{
-      "title":"PickTN",
+      "title":"Pick Tennessee Products",
       "description":"Dedicated to connecting people everywhere to all of the great things that come from Tennessee farms and food businesses",
       "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/picktnlogo.png"
    },
    "serviceInfo":{
-      "title":"PickTN",
-      "description":"<p>Pick Tennessee Products is part of the Tennessee Department of Agriculture, dedicated to connecting people everywhere to all of the great things that come from Tennessee farms and food businesses. These directories connect you with approximately 2600 Tennessee farm-direct and food businesses. Follow us on Facebook, Twitter, Instagram, and YouTube to find fresh, local, fun from the farm.</p>",
+      "title":"Pick Tennessee Products",
+      "description":"<p>For more than thirty years, Pick Tennessee Products has been a part of the Tennessee Department of Agriculture, connecting people everywhere to all of the great things that come from Tennessee's farms and food businesses.</p><p>We are a non-profit organization and do not charge anyone for our services or generate income for any agency.</p><p>From produce and pumpkin patches, to honey and handmade soaps, to cheeses and artisan chocolates, you can live local when you Pick Tennessee.</p>",
       "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/picktn-barn.jpg"
    },
    "authDomains":[],
@@ -335,7 +335,7 @@
    },
    "serviceInfo":{
       "title":"Felony Offender Information",
-      "description":"<p>The information available in this application pertains to the Tennessee felony offenders who have ever been in the custody of the Tennessee Department of Correction. More detailed information should be obtained from the originating jurisdiction. Information such as individual’s current status (e.g., inmate, probation, parole) or parole eligibility is available to citizens free of charge. Official statewide background checks are available from the Tennessee Bureau of Investigations.</p>",
+      "description":"<p>The information available in this application pertains to the Tennessee felony offenders who have ever been in the custody of the Tennessee Department of Correction. More detailed information should be obtained from the originating jurisdiction. Information such as individual's current status (e.g., inmate, probation, parole) or parole eligibility is available to citizens free of charge. Official statewide background checks are available from the Tennessee Bureau of Investigations.</p>",
       "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/FOIL.png"
    },
    "authDomains":[],
