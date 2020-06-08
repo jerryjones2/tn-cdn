@@ -181,7 +181,7 @@
       "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
    },
    "authDomains":[],
-   "serviceLink":"http://mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com/secured",
+   "serviceLink":"https://preprod.tn.gov/uat-testing/testing-close-button.html",
    "categories":[
       "qatest"
    ]
