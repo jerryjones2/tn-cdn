@@ -1,409 +1,454 @@
-[
-   {
-   "environment": "dev",
-   "id": "tnServes",
-   "sortBy": "tn serves",
-   "serviceList": {
-      "title": "TN Serves",
-      "description": "Transforming our state through service",
-      "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Tennessee_Serves_Logo-sm.png"
-   },
-   "serviceInfo": {
-      "title": "Tennessee Serves",
-      "description": "<h3>A Note from the First Lady</h3><p>I invite you to join us as we transform our state through service. Our monthly newsletter will keep you informed on where we will be serving and how you can join us. You can also follow along on Facebook, Instagram and Twitter with #TennesseeServes.</p><p>Thank you for learning more about Tennessee Serves. I hope you will join us in serving our state, by serving your community, by serving one person at a time. Join us as Tennessee Serves!</p>",
-      "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Tennessee_Serves_Logo-sm.png"
-   },
-   "authDomains": [],
-   "serviceLink": "https://www.tn.gov/firstlady/tennessee-serves.html",
-   "categories": [
-      "volunteer"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"kidsServe",
-   "sortBy":"tn kids serve summer challenge",
-   "serviceList":{
-      "title":"TN Kids Serve Summer Challenge",
-      "description":"Statewide Tennessee Kids Serve Summer Challenge",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TNKidsServe-logo.png"
-   },
-   "serviceInfo":{
-      "title":"TN Kids Serve Summer Challenge",
-      "description":"<p>First Lady Maria Lee invites all Tennessee elementary students (grades rising K - rising 6th) to participate in her statewide Tennessee Kids Serve Summer Challenge: a calling to motivate young Tennesseans to serve their state, give back to their communities and care for their neighbors during the summer.</p><p>The challenge will start on <strong>June 1, 2020</strong> and will conclude on <strong>August 1, 2020</strong>.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TNKidsServe-logo.png"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.tn.gov/firstlady/tennessee-serves/tennessee-kids-serve-summer-challenge.html",
-   "categories":[
-      "family",
-      "volunteer"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"kidcentral",
-   "sortBy":"kidcentral tn",
-   "serviceList":{
-      "title":"kidcentral tn",
-      "description":"kidcentral tn is a one-stop shop for Tennessee families to raise healthy and happy kids",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/childwithtoys.jpg"
-   },
-   "serviceInfo":{
-      "title":"kidcentral tn",
-      "description":"<h3>Welcome!</h3><p>kidcentral tn is a one-stop shop for Tennessee families to raise healthy and happy kids. Find parenting tips, track child milestones and access TN state resources.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/childwithtoys.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.kidcentraltn.com",
-   "categories":[
-      "family"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"educatorLicense",
-   "sortBy":"educator license search",
-   "serviceList":{
-      "title":"Educator License Search",
-      "description":"This application allows citizens to search for educator license information by name and/or license number",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/education.jpg"
-   },
-   "serviceInfo":{
-      "title":"Educator License Search",
-      "description":"<p>This application allows citizens to search for educator license information by name and/or license number.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/education.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://tdoe.tncompass.org/Public/Search",
-   "categories":[
-      "family"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"childAbuseReferral",
-   "sortBy":"child abuse referral & tracking",
-   "serviceList":{
-      "title":"Child Abuse Referral & Tracking",
-      "description":"Report the abuse, neglect or exploitation of a child or children",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/caret.jpg"
-   },
-   "serviceInfo":{
-      "title":"Child Abuse Referral & Tracking",
-      "description":"<p>Do you need to report the abuse, neglect or exploitation of a child or children? Or Did you previously submit a referral and want to know the status?</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/caret.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://apps.tn.gov/carat",
-   "categories":[
-      "family"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"earlyIntervention",
-   "sortBy":"tn early intervention system",
-   "serviceList":{
-      "title":"TN Early Intervention System",
-      "description":"TEIS offers therapy and services for children that may have a developmental delay or disability",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg"
-   },
-   "serviceInfo":{
-      "title":"Tennessee Early Intervention System",
-      "description":"<p>Do you know a baby or toddler that may have a developmental delay or disability? TEIS offers therapy and services for children ages birth up to 3 years old.  Anyone can submit a referral and TEIS professionals will set up an evaluation to see if the child qualifies for free services.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://stateoftennessee.formstack.com/forms/teis_referral",
-   "categories":[
-      "family"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"lockedPage1",
-   "sortBy":"test app 1",
-   "serviceList":{
-      "title":"Test App 1 - OpenShift",
-      "description":"This will be the text on the info page to allow search optimazation",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg"
-   },
-   "serviceInfo":{
-      "title":"Test App 1 - OpenShift",
-      "description":"This will be the text on the info page to allow search optimazation",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg"
-   },
-   "authDomains":[
-      "mytn-testapp-1-tn-mytn-testapp-1.apps.non-production.a7p1.p1.openshiftapps.com"
-   ],
-   "serviceLink":"http://mytn-testapp-1-tn-mytn-testapp-1.apps.non-production.a7p1.p1.openshiftapps.com/secured",
-   "categories":[
-      "family",
-      "qatest"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"lockedPage2",
-   "sortBy":"test app 2",
-   "serviceList":{
-      "title":"Test App 2 - OpenShift",
-      "description":"This will be the text on the info page to allow search optimazation",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
-   },
-   "serviceInfo":{
-      "title":"Test App 2 - OpenShift",
-      "description":"This will be the text on the info page to allow search optimazation",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
-   },
-   "authDomains":[
-      "mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com"
-   ],
-   "serviceLink":"http://mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com/secured",
-   "categories":[
-      "family",
-      "qatest"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"testclosewindow",
-   "sortBy":"test app 3",
-   "serviceList":{
-      "title":"Testing Close Window",
-      "description":"This will be the text on the info page to allow search optimazation",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
-   },
-   "serviceInfo":{
-      "title":"Testing Close Window",
-      "description":"This will be the text on the info page to allow search optimazation",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://preprod.tn.gov/uat-testing/testing-close-button.html",
-   "categories":[
-      "qatest"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"picktn",
-   "sortBy":"picktn",
-   "serviceList":{
-      "title":"Pick Tennessee Products",
-      "description":"Dedicated to connecting people everywhere to all of the great things that come from Tennessee farms and food businesses",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/picktnlogo.png"
-   },
-   "serviceInfo":{
-      "title":"Pick Tennessee Products",
-      "description":"<p>For more than thirty years, Pick Tennessee Products has been a part of the Tennessee Department of Agriculture, connecting people everywhere to all of the great things that come from Tennessee's farms and food businesses.</p><p>We are a non-profit organization and do not charge anyone for our services or generate income for any agency.</p><p>From produce and pumpkin patches, to honey and handmade soaps, to cheeses and artisan chocolates, you can live local when you Pick Tennessee.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/picktn-barn.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.picktnproducts.org",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"tnStateMuseum",
-   "sortBy":"tn state museum",
-   "serviceList":{
-      "title":"TN State Museum",
-      "description":"The Tennessee State Museum is designed to bring history to life",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnMuseum.jpg"
-   },
-   "serviceInfo":{
-      "title":"Tennessee State Museum",
-      "description":"<p>The Tennessee State Museum's new 137,000-square-foot facility is designed to bring history to life. It includes a \"Tennessee Time Tunnel\" chronicling the state's rich history, a hands-on children's gallery, six changing galleries, a state-of-the-art digital learning center, a grand hall and second-floor veranda. Located in the heart of Nashville, at the corner of Rosa Parks Boulevard and Jefferson Street, the new museum sits at the foot of Capitol Hill and overlooks Bicentennial Mall State Park. There is no admission charge for visitors.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnMuseum.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://tnmuseum.org",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"veteransServices",
-   "sortBy":"veterans services",
-   "serviceList":{
-      "title":"Veterans Services",
-      "description":"Veterans Services connects Veterans of all eras to the benefits they have earned, and maintains the state cemeteries that serve them",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/vetservices.png"
-   },
-   "serviceInfo":{
-      "title":"Veterans Services",
-      "description":"<p>Tennessee Department of Veterans Services connects Veterans of all eras to the benefits they have earned, and maintains the state cemeteries that serve them. If you have questions please click the customer inquiry on the next page or please call 615-741-2345 for assistance and if you want to preregister for burial service click preregistration and select your region.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/vetservices.png"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.mytn.gov/guest/lifestyles/tennessee-state-veterans-cemetery-pre-registration-forms.html",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"tnWildlife",
-   "sortBy":"tn wildlife resources agency",
-   "serviceList":{
-      "title":"TN Wildlife Resources Agency",
-      "description":"TWRA site provides license and permits, harvest, game check activity and more",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-list1.png"
-   },
-   "serviceInfo":{
-      "title":"Tennessee Wildlife Resources Agency",
-      "description":"<p>Some of the features available through the TWRA site are as follows:</p><ul><li>Purchase your license and permits</li><li>Submit harvest reports and game check activity</li><li>Register or renew your vessel online</li><li>Check application status</li><li>Obtain replacement registration cards and decals</li><li>View and apply for open quota hunt events</li><li>Update your application and hunt choices online</li><li>View and manage your customer account</li><li>And more<br /></li></ul>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-info1.png"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.gooutdoorstennessee.com",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"masteredTN",
-   "sortBy":"mastered in tennessee",
-   "serviceList":{
-      "title":"Mastered in Tennessee",
-      "description":"Helps attract investments and expansions to make TN #1 in the Southeast for high quality jobs",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/masteredtn-list.png"
-   },
-   "serviceInfo":{
-      "title":"Mastered in Tennessee",
-      "description":"<p>The Tennessee Department of Economic & Community Development helps attract investments and expansions to make TN #1 in the Southeast for high quality jobs.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Mastered-In-TN.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://tnecd.com",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"restaurantInspectionScores",
-   "sortBy":"restaurant inspection scores",
-   "serviceList":{
-      "title":"Restaurant Inspection Scores",
-      "description":"To protect, promote and improve the health and prosperity of people in Tennessee",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
-   },
-   "serviceInfo":{
-      "title":"Restaurant Inspection Scores",
-      "description":"<p>The mission of the Tennessee Department of Health (TDH) is to protect, promote and improve the health and prosperity of people in Tennessee. The Environmental Health Program permits and inspects restaurants and other food establishments in the state. Learn more about TDH services and programs at www.tn.gov/health.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"http://inspections.myhealthdepartment.com/tennessee",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"tnVacation",
-   "sortBy":"tn vacation",
-   "serviceList":{
-      "title":"TN Vacation",
-      "description":"Home of the blues, bluegrass, country, gospel, soul, rockabilly and rock 'n' roll-delivering an unparalleled experience of beauty, history and family adventure, infused with music",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnVacation.jpg"
-   },
-   "serviceInfo":{
-      "title":"TN Vacation",
-      "description":"<p>Tennessee is the home of the blues, bluegrass, country, gospel, soul, rockabilly and rock 'n' roll-delivering an unparalleled experience of beauty, history and family adventure, infused with music that creates a vacation that is \"The Soundtrack of America. Made in Tennessee.\"</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnVacation.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.tnvacation.com",
-   "categories":[
-      "lifestyles"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"onlineDriverService",
-   "sortBy":"driver services online",
-   "serviceList":{
-      "title":"Driver Services Online",
-      "description":"The Department of Safety and Homeland Security provides the driver services electronically",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/driver.jpg"
-   },
-   "serviceInfo":{
-      "title":"Driver Services Online",
-      "description":"<p>The Department of Safety and Homeland Security provides the following driver services electronically:</p><ul><li>Renewing Driver's License</li><li>Ordering Duplicate License</li><li>Reissuing License</li><li>Change my Address</li><li>Apply for Teen/Graduated Driver License</li><li>Find forms and publications</li><li>Map of Driver Licenses Stations</li><li>And More</li></ul><p>Please select the button shown below to access these services.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/driver.jpg"
-   },
-   "authDomains":[],
-   "serviceLink":"https://dl.safety.tn.gov",
-   "categories":[
-      "driving"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"foil",
-   "sortBy":"felony offender information",
-   "serviceList":{
-      "title":"Felony Offender Information",
-      "description":"Felony offenders who have ever been in the custody of the Tennessee Department of Correction",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/FOIL.png"
-   },
-   "serviceInfo":{
-      "title":"Felony Offender Information",
-      "description":"<p>The information available in this application pertains to the Tennessee felony offenders who have ever been in the custody of the Tennessee Department of Correction. More detailed information should be obtained from the originating jurisdiction. Information such as individual's current status (e.g., inmate, probation, parole) or parole eligibility is available to citizens free of charge. Official statewide background checks are available from the Tennessee Bureau of Investigations.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/FOIL.png"
-   },
-   "authDomains":[],
-   "serviceLink":"https://apps.tn.gov/foil-app/search.jsp",
-   "categories":[
-      "publicSafety"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"covid19",
-   "sortBy":"covid-19 unified command hub",
-   "serviceList":{
-      "title":"COVID-19 Unified Command Hub",
-      "description":"COVID-19 is the infectious disease caused by the novel coronavirus",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/hospital_staff2-sm.png"
-   },
-   "serviceInfo":{
-      "title":"COVID-19 Unified Command Hub",
-      "description":"<p>COVID-19 is the infectious disease caused by the novel coronavirus. This new virus and disease were unknown to the population before the outbreak began in Wuhan, China, in December 2019.</p><p>Visit the site for more information, maps and resources about the coronavirus response in Tennessee.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/hospital_staff2-sm.png"
-   },
-   "authDomains":[],
-   "serviceLink":"https://unifiedcommand.tn.gov",
-   "categories":[
-      "publicSafety"
-   ]
-},
-{
-   "environment": "dev",
-   "id":"temaEmergency",
-   "sortBy":"tema emergency",
-   "serviceList":{
-      "title":"TEMA Emergency",
-      "description":"TEMA supports local jurisdictions during emergencies in managing the flow of assets, services, and teams to address the emergency",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TEMAemergancy.png"
-   },
-   "serviceInfo":{
-      "title":"TEMA Emergency",
-      "description":"<p>TEMA supports local jurisdictions during emergencies in managing the flow of assets, services, and teams to address the emergency; activating the State Emergency Operations Center to coordinate and communicate with critical emergency functions; and reaching out for mutual aid from from other departments or agencies of the state, from local jurisdictions, from other states, and from the federal government.</p>",
-      "imageLink":"http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TEMAemergancy.png"
-   },
-   "authDomains":[],
-   "serviceLink":"https://www.tn.gov/tema",
-   "categories":[
-      "publicSafety"
-   ]
-}
+[{
+        "environment": "dev",
+        "id": "childAbuseReferral",
+        "sortBy": "child abuse referral & tracking",
+        "serviceList": {
+            "title": "Child Abuse Referral & Tracking",
+            "description": "Report the abuse, neglect or exploitation of a child or children",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/caret.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Child Abuse Referral & Tracking",
+            "description": "<p>Do you need to report the abuse, neglect or exploitation of a child or children? Or Did you previously submit a referral and want to know the status?</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/caret.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://apps.tn.gov/carat",
+        "categories": [
+            "family"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "covid19",
+        "sortBy": "covid-19 unified command hub",
+        "serviceList": {
+            "title": "COVID-19 Unified Command Hub",
+            "description": "COVID-19 is the infectious disease caused by the novel coronavirus",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/hospital_staff2-sm.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "COVID-19 Unified Command Hub",
+            "description": "<p>COVID-19 is the infectious disease caused by the novel coronavirus. This new virus and disease were unknown to the population before the outbreak began in Wuhan, China, in December 2019.</p><p>Visit the site for more information, maps and resources about the coronavirus response in Tennessee.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/hospital_staff2-sm.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://unifiedcommand.tn.gov",
+        "categories": [
+            "publicSafety"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "onlineDriverService",
+        "sortBy": "driver services online",
+        "serviceList": {
+            "title": "Driver Services Online",
+            "description": "The Department of Safety and Homeland Security provides the driver services electronically",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/driver.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Driver Services Online",
+            "description": "<p>The Department of Safety and Homeland Security provides the following driver services electronically:</p><ul><li>Renewing Driver's License</li><li>Ordering Duplicate License</li><li>Reissuing License</li><li>Change my Address</li><li>Apply for Teen/Graduated Driver License</li><li>Find forms and publications</li><li>Map of Driver Licenses Stations</li><li>And More</li></ul><p>Please select the button shown below to access these services.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/driver.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://dl.safety.tn.gov",
+        "categories": [
+            "driving"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "educatorLicense",
+        "sortBy": "educator license search",
+        "serviceList": {
+            "title": "Educator License Search",
+            "description": "This application allows citizens to search for educator license information by name and/or license number",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/education.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Educator License Search",
+            "description": "<p>This application allows citizens to search for educator license information by name and/or license number.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/education.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://tdoe.tncompass.org/Public/Search",
+        "categories": [
+            "family"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "foil",
+        "sortBy": "felony offender information",
+        "serviceList": {
+            "title": "Felony Offender Information",
+            "description": "Felony offenders who have ever been in the custody of the Tennessee Department of Correction",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/FOIL.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Felony Offender Information",
+            "description": "<p>The information available in this application pertains to the Tennessee felony offenders who have ever been in the custody of the Tennessee Department of Correction. More detailed information should be obtained from the originating jurisdiction. Information such as individual's current status (e.g., inmate, probation, parole) or parole eligibility is available to citizens free of charge. Official statewide background checks are available from the Tennessee Bureau of Investigations.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/FOIL.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://apps.tn.gov/foil-app/search.jsp",
+        "categories": [
+            "publicSafety"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "kidcentral",
+        "sortBy": "kidcentral tn",
+        "serviceList": {
+            "title": "kidcentral tn",
+            "description": "kidcentral tn is a one-stop shop for Tennessee families to raise healthy and happy kids",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/childwithtoys.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "kidcentral tn",
+            "description": "<h3>Welcome!</h3><p>kidcentral tn is a one-stop shop for Tennessee families to raise healthy and happy kids. Find parenting tips, track child milestones and access TN state resources.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/childwithtoys.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.kidcentraltn.com",
+        "categories": [
+            "family"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "masteredTN",
+        "sortBy": "mastered in tennessee",
+        "serviceList": {
+            "title": "Mastered in Tennessee",
+            "description": "Helps attract investments and expansions to make TN #1 in the Southeast for high quality jobs",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/masteredtn-list.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Mastered in Tennessee",
+            "description": "<p>The Tennessee Department of Economic & Community Development helps attract investments and expansions to make TN #1 in the Southeast for high quality jobs.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Mastered-In-TN.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://tnecd.com",
+        "categories": [
+            "lifestyles"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "picktn",
+        "sortBy": "picktn",
+        "serviceList": {
+            "title": "Pick Tennessee Products",
+            "description": "Dedicated to connecting people everywhere to all of the great things that come from Tennessee farms and food businesses",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/picktnlogo.png",
+            "searchTags": "PickTN, Farmers, Farmers Markets"
+        },
+        "serviceInfo": {
+            "title": "Pick Tennessee Products",
+            "description": "<p>For more than thirty years, Pick Tennessee Products has been a part of the Tennessee Department of Agriculture, connecting people everywhere to all of the great things that come from Tennessee's farms and food businesses.</p><p>We are a non-profit organization and do not charge anyone for our services or generate income for any agency.</p><p>From produce and pumpkin patches, to honey and handmade soaps, to cheeses and artisan chocolates, you can live local when you Pick Tennessee.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/picktn-barn.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.picktnproducts.org",
+        "categories": [
+            "lifestyles"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "restaurantInspectionScores",
+        "sortBy": "restaurant inspection scores",
+        "serviceList": {
+            "title": "Restaurant Inspection Scores",
+            "description": "To protect, promote and improve the health and prosperity of people in Tennessee",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Restaurant Inspection Scores",
+            "description": "<p>The mission of the Tennessee Department of Health (TDH) is to protect, promote and improve the health and prosperity of people in Tennessee. The Environmental Health Program permits and inspects restaurants and other food establishments in the state. Learn more about TDH services and programs at www.tn.gov/health.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "http://inspections.myhealthdepartment.com/tennessee",
+        "categories": [
+            "lifestyles"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "temaEmergency",
+        "sortBy": "tema emergency",
+        "serviceList": {
+            "title": "TEMA Emergency",
+            "description": "TEMA supports local jurisdictions during emergencies in managing the flow of assets, services, and teams to address the emergency",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TEMAemergancy.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "TEMA Emergency",
+            "description": "<p>TEMA supports local jurisdictions during emergencies in managing the flow of assets, services, and teams to address the emergency; activating the State Emergency Operations Center to coordinate and communicate with critical emergency functions; and reaching out for mutual aid from from other departments or agencies of the state, from local jurisdictions, from other states, and from the federal government.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TEMAemergancy.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.tn.gov/tema",
+        "categories": [
+            "publicSafety"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "lockedPage1",
+        "sortBy": "test app 1",
+        "serviceList": {
+            "title": "Test App 1 - OpenShift",
+            "description": "This will be the text on the info page to allow search optimazation",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Test App 1 - OpenShift",
+            "description": "This will be the text on the info page to allow search optimazation",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg"
+        },
+        "authDomains": [
+            "mytn-testapp-1-tn-mytn-testapp-1.apps.non-production.a7p1.p1.openshiftapps.com"
+        ],
+        "serviceLink": "http://mytn-testapp-1-tn-mytn-testapp-1.apps.non-production.a7p1.p1.openshiftapps.com/secured",
+        "categories": [
+            "family",
+            "qatest"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "lockedPage2",
+        "sortBy": "test app 2",
+        "serviceList": {
+            "title": "Test App 2 - OpenShift",
+            "description": "This will be the text on the info page to allow search optimazation",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Test App 2 - OpenShift",
+            "description": "<h1>Testing HTML Fonts - H1</h1><h2>Testing H2</h2><h3>Testing H3</h3><h4>Testing H4</h4><p>Testing out Paragraph Text</p> <ul><li>Eget velit aliquet sagittis id consectetur. Tortor aliquam nulla facilisi cras fermentum odio.</li><li>Eget velit aliquet sagittis id consectetur. </li></ul><ol><li>Eget velit aliquet sagittis id consectetur. Tortor aliquam nulla facilisi cras fermentum odio.</li><li>Tortor aliquam nulla facilisi cras fermentum odio.</li></ol><p><strong>Bold Text</strong> with normal text</p><p><em>Italic Text</em> with normal text</p><p><u>Underline Text</u> with normal text</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
+        },
+        "authDomains": [
+            "mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com"
+        ],
+        "serviceLink": "http://mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com/secured",
+        "categories": [
+            "family",
+            "qatest"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "lockedPage3",
+        "sortBy": "test app 3",
+        "serviceList": {
+            "title": "Test App 3 - Two OpenShift URL",
+            "description": "This will be the text on the info page to allow search optimazation",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Test App 3 - Two OpenShift URL",
+            "description": "Both links from Test App 1 and Test App 2 are in this authDomains line",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/restaurantscores1.jpg"
+        },
+        "authDomains": [
+            "mytn-testapp-1-tn-mytn-testapp-1.apps.non-production.a7p1.p1.openshiftapps.com",
+            "mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com",
+            "dev2platform.aem.mytn.gov/secure"
+        ],
+        "serviceLink": "http://mytn-testapp-2-tn-mytn-testapp-2.apps.non-production.a7p1.p1.openshiftapps.com/secured",
+        "categories": [
+            "family",
+            "qatest"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "testclosewindow",
+        "sortBy": "test app 3",
+        "serviceList": {
+            "title": "Testing Close Window",
+            "description": "This will be the text on the info page to allow search optimazation",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Testing Close Window",
+            "description": "This will be the text on the info page to allow search optimazation",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tn-no-image.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://preprod.tn.gov/uat-testing/testing-close-button.html",
+        "categories": [
+            "qatest"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "earlyIntervention",
+        "sortBy": "tn early intervention system",
+        "serviceList": {
+            "title": "TN Early Intervention System",
+            "description": "TEIS offers therapy and services for children that may have a developmental delay or disability",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Tennessee Early Intervention System",
+            "description": "<p>Do you know a baby or toddler that may have a developmental delay or disability? TEIS offers therapy and services for children ages birth up to 3 years old.  Anyone can submit a referral and TEIS professionals will set up an evaluation to see if the child qualifies for free services.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/teis.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://stateoftennessee.formstack.com/forms/teis_referral",
+        "categories": [
+            "family"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "kidsServe",
+        "sortBy": "tn kids serve summer challenge",
+        "serviceList": {
+            "title": "TN Kids Serve Summer Challenge",
+            "description": "Statewide Tennessee Kids Serve Summer Challenge",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TNKidsServe-logo.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "TN Kids Serve Summer Challenge",
+            "description": "<p>First Lady Maria Lee invites all Tennessee elementary students (grades rising K - rising 6th) to participate in her statewide Tennessee Kids Serve Summer Challenge: a calling to motivate young Tennesseans to serve their state, give back to their communities and care for their neighbors during the summer.</p><p>The challenge will start on <strong>June 1, 2020</strong> and will conclude on <strong>August 1, 2020</strong>.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TNKidsServe-logo.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.tn.gov/firstlady/tennessee-serves/tennessee-kids-serve-summer-challenge.html",
+        "categories": [
+            "family",
+            "volunteer"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "tnServes",
+        "sortBy": "tn serves",
+        "serviceList": {
+            "title": "TN Serves",
+            "description": "Transforming our state through service",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Tennessee_Serves_Logo-sm.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Tennessee Serves",
+            "description": "<h3>A Note from the First Lady</h3><p>I invite you to join us as we transform our state through service. Our monthly newsletter will keep you informed on where we will be serving and how you can join us. You can also follow along on Facebook, Instagram and Twitter with #TennesseeServes.</p><p>Thank you for learning more about Tennessee Serves. I hope you will join us in serving our state, by serving your community, by serving one person at a time. Join us as Tennessee Serves!</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Tennessee_Serves_Logo-sm.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.tn.gov/firstlady/tennessee-serves.html",
+        "categories": [
+            "volunteer"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "tnStateMuseum",
+        "sortBy": "tn state museum",
+        "serviceList": {
+            "title": "TN State Museum",
+            "description": "The Tennessee State Museum is designed to bring history to life",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnMuseum.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Tennessee State Museum",
+            "description": "<p>The Tennessee State Museum's new 137,000-square-foot facility is designed to bring history to life. It includes a \"Tennessee Time Tunnel\" chronicling the state's rich history, a hands-on children's gallery, six changing galleries, a state-of-the-art digital learning center, a grand hall and second-floor veranda. Located in the heart of Nashville, at the corner of Rosa Parks Boulevard and Jefferson Street, the new museum sits at the foot of Capitol Hill and overlooks Bicentennial Mall State Park. There is no admission charge for visitors.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnMuseum.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://tnmuseum.org",
+        "categories": [
+            "lifestyles"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "tnVacation",
+        "sortBy": "tn vacation",
+        "serviceList": {
+            "title": "TN Vacation",
+            "description": "Home of the blues, bluegrass, country, gospel, soul, rockabilly and rock 'n' roll-delivering an unparalleled experience of beauty, history and family adventure, infused with music",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnVacation.jpg",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "TN Vacation",
+            "description": "<p>Tennessee is the home of the blues, bluegrass, country, gospel, soul, rockabilly and rock 'n' roll-delivering an unparalleled experience of beauty, history and family adventure, infused with music that creates a vacation that is \"The Soundtrack of America. Made in Tennessee.\"</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/tnVacation.jpg"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.tnvacation.com",
+        "categories": [
+            "lifestyles"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "tnWildlife",
+        "sortBy": "tn wildlife resources agency",
+        "serviceList": {
+            "title": "TN Wildlife Resources Agency",
+            "description": "TWRA site provides license and permits, harvest, game check activity and more",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-list1.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Tennessee Wildlife Resources Agency",
+            "description": "<p>Some of the features available through the TWRA site are as follows:</p><ul><li>Purchase your license and permits</li><li>Submit harvest reports and game check activity</li><li>Register or renew your vessel online</li><li>Check application status</li><li>Obtain replacement registration cards and decals</li><li>View and apply for open quota hunt events</li><li>Update your application and hunt choices online</li><li>View and manage your customer account</li><li>And more<br /></li></ul>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/twra-logo-info1.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.gooutdoorstennessee.com",
+        "categories": [
+            "lifestyles"
+        ]
+    },
+    {
+        "environment": "dev",
+        "id": "veteransServices",
+        "sortBy": "veterans services",
+        "serviceList": {
+            "title": "Veterans Services",
+            "description": "Veterans Services connects Veterans of all eras to the benefits they have earned, and maintains the state cemeteries that serve them",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/vetservices.png",
+            "searchTags": ""
+        },
+        "serviceInfo": {
+            "title": "Veterans Services",
+            "description": "<p>Tennessee Department of Veterans Services connects Veterans of all eras to the benefits they have earned, and maintains the state cemeteries that serve them. If you have questions please click the customer inquiry on the next page or please call 615-741-2345 for assistance and if you want to preregister for burial service click preregistration and select your region.</p>",
+            "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/vetservices.png"
+        },
+        "authDomains": [],
+        "serviceLink": "https://www.mytn.gov/guest/lifestyles/tennessee-state-veterans-cemetery-pre-registration-forms.html",
+        "categories": [
+            "lifestyles"
+        ]
+    }
 ]
