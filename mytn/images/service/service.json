@@ -10,7 +10,7 @@
         },
         "serviceInfo": {
             "title": "Child Abuse Referral & Tracking",
-            "description": "<p>Do you need to report the abuse, neglect or exploitation of a child or children? Or Did you previously submit a referral and want to know the status?</p>",
+            "description": "<p>Do you need to report the abuse, neglect or exploitation of a child or children? Or did you previously submit a referral and want to know the status?</p>",
             "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/caret.jpg"
         },
         "authDomains": [],
@@ -336,7 +336,7 @@
         },
         "serviceInfo": {
             "title": "TN Kids Serve Summer Challenge",
-            "description": "<p>First Lady Maria Lee invites all Tennessee elementary students (grades rising K - rising 6th) to participate in her statewide Tennessee Kids Serve Summer Challenge: a calling to motivate young Tennesseans to serve their state, give back to their communities and care for their neighbors during the summer.</p><p>The challenge will start on <strong>June 1, 2020</strong> and will conclude on <strong>August 1, 2020</strong>.</p>",
+            "description": "<p>As part of First Lady Maria Lee’s Tennessee Serves initiative, she introduced the Tennessee Kids Serves Summer Challenge where rising kindergarten through sixth-grade students are invited to join her in devoting a portion of their summer break to serving others.</p><p>The goal of this challenge is simple: Inspire kids from a young age to live a life devoted to service.</p><p>Top participants will be invited to celebrate their summer of service with a carnival at the Tennessee Residence.</p>",
             "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/TNKidsServe-logo.png"
         },
         "authDomains": [],
@@ -358,7 +358,7 @@
         },
         "serviceInfo": {
             "title": "Tennessee Serves",
-            "description": "<h3>A Note from the First Lady</h3><p>I invite you to join us as we transform our state through service. Our monthly newsletter will keep you informed on where we will be serving and how you can join us. You can also follow along on Facebook, Instagram and Twitter with #TennesseeServes.</p><p>Thank you for learning more about Tennessee Serves. I hope you will join us in serving our state, by serving your community, by serving one person at a time. Join us as Tennessee Serves!</p>",
+            "description": "<h1>A Note from the First Lady</h1><p>I invite you to join us as we transform our state through service. Our monthly newsletter will keep you informed on where we will be serving and how you can join us. You can also follow along on Facebook, Instagram and Twitter with #TennesseeServes.</p><p>Thank you for learning more about Tennessee Serves. I hope you will join us in serving our state, by serving your community, by serving one person at a time. Join us as Tennessee Serves!</p>",
             "imageLink": "http://nginx-cdn-tn-cdn.apps.non-production.a7p1.p1.openshiftapps.com/mytn/images/service/Tennessee_Serves_Logo-sm.png"
         },
         "authDomains": [],
